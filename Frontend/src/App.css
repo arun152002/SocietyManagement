@@ -1,0 +1,60 @@
+.loginForm{
+    margin-top: 150px;
+}
+.signupform{
+    margin-top:50px;
+}
+
+.notauser{
+    margin-left: 200px;
+    color:red;
+}
+.alreadyuser{
+    margin-left:150px;
+    color:red;
+}
+
+.text-line{
+    background-color: transparent;
+    color: #eeeeee;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    width:275px;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid #eeeeee 1px;
+    padding: 3px 10px;
+}
+.loginbtn{
+    width: 100px;
+}
+.dropdown{
+    background-color: #282C34;
+
+}
+.input-group{
+    width:275px;
+    
+}
+.form-select{
+    background-color:#282C34;
+}
+.outline-success{
+    margin-top:10px;
+    margin-bottom: 10px;
+    text-align: right;
+    float:right;
+    margin-right: 20px;
+
+}
+.gradient-custom {
+    background: #106EEA;
+    /* background: linear-gradient(to right bottom, rgb(63, 55, 28), rgb(83, 82, 81)) */
+}
+/* .cardbody{
+    background: rgb(142,142,142);
+    background: linear-gradient(90deg, rgba(142,142,142,1) 0%, rgba(247,247,247,1) 0%, rgba(250,251,252,1) 0%, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(213,215,244,1) 50%, rgba(108,120,242,1) 100%);} */
+.paidButton{
+    width: 240px;
+}
